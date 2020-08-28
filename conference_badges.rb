@@ -1,5 +1,5 @@
-def badge_maker(names)
- return "Hello, my name is names."
+def badge_maker(Arel)
+ return "Hello, my name is Arel."
  names = [Edsger, Ada, Charles, Alan, Grace, Linus, Matz]
 end
 
