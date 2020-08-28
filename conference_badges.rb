@@ -1,8 +1,7 @@
 def batch_badge_creator(names)
-   names.map {|attendees.each|"Hello, my name is #{attendees}."}
+   names.map{|attendees|"Hello, my name is #{attendees}."}
 end
  
-end
 
 def assign_rooms(attendees)
   room_assignments = 0
