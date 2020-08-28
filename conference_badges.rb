@@ -1,7 +1,7 @@
 def badge_maker(Arel)
  return "Hello, my name is Arel."
- names = [Edsger, Ada, Charles, Alan, Grace, Linus, Matz]
 end
+
 
 
 def batch_badge_creator(attendees)
