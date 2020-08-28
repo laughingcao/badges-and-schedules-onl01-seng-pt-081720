@@ -1,6 +1,6 @@
-def batch_badge_creator(attendees)
-   attendees.each do |attendee|
-    puts "Hello, my name is #{attendees}."
+def batch_badge_creator(names)
+   names.map {| attendees |
+   "Hello, my name is #{attendees}."}
 end
  
 end
