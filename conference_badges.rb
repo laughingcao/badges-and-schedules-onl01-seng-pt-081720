@@ -1,3 +1,3 @@
 badge_maker("Arel")
- return "Hello, my name is Arel"
+ return "Hello, my name is #{name}"
 end
