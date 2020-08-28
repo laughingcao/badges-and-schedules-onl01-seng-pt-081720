@@ -2,7 +2,7 @@ def badge_maker(Arel)
  return "Hello, my name is Arel."
 end
 
-
+ names = [Edsger, Ada, Charles, Alan, Grace, Linus, Matz]
 
 def batch_badge_creator(attendees)
    attendees.each do |attendee|
