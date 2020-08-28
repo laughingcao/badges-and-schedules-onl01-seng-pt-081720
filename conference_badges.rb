@@ -1,6 +1,7 @@
 def badge_maker("Arel")
  return "Hello, my name is #{Arel}."
 end
+end
 
  attendees = [Edsger, Ada, Charles, Alan, Grace, Linus, Matz]
 
